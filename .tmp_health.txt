@@ -1,1 +1,0 @@
-{"status":"healthy","ollama":{"healthy":true,"model_available":true,"models":["nomic-embed-text:latest","gemma4:latest","qwen3.6:latest","minimax-m2.7:cloud","deepseek-v3.1:671b-cloud","saki007ster/CybersecurityRiskAnalyst:latest"]},"timestamp":"2026-04-23T20:36:56.550449"}

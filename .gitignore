@@ -79,4 +79,8 @@ Thumbs.db
 
 # Build outputs
 dist/
-build/
+build/.tmp_health.txt
+.tmp_ollama.txt
+frontend/tsconfig.tsbuildinfo
+nul
+backend/data/uploads/
